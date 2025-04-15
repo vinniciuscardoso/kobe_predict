@@ -1,6 +1,16 @@
-# Kobe Predict
+# Kobe Predict 🎯🏀
 
+Projeto de classificação de arremessos de Kobe Bryant com MLFlow, PyCaret, Scikit-learn e Streamlit.
 
+### Link github:
+https://github.com/vinniciuscardoso/kobe_predict
+
+## Funcionalidades
+- Treinamento de modelo com tracking via MLflow
+- Aplicação do modelo em produção
+- Dashboard com Streamlit
+
+## Respostas do questões
 ### 3. Como as ferramentas Streamlit, MLFlow, PyCaret e Scikit-Learn auxiliam na construção dos pipelines descritos anteriormente? A resposta deve abranger os seguintes aspectos:
 
 Essas ferramentas atuam de forma complementar na construção de pipelines de ML. O PyCaret é o responsavel por automatizar o treinamento e 
